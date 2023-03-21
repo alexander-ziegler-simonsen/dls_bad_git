@@ -1,3 +1,2 @@
 restaurants
 changed color
-TEST
