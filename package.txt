@@ -1,1 +1,1 @@
-google map sdk 1.0.0
+google map sdk 2.0.0
